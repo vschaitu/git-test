@@ -1,1 +1,2 @@
 Initial line before any commit
+Adding line for the 3rd commit for git-demo
